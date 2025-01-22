@@ -37,13 +37,13 @@
 }
 
 #datetime-picker:focus {
-  border-color: #4e75ff;
+  border-color: #c0a2f1;
   color: #000000;
 }
 
 #datetime-picker:disabled {
   background-color: #fafafa;
-  color: #808080;
+  color: #854747;
 }
 
 .timer-wrapper > button {
@@ -58,7 +58,7 @@
   margin-bottom: 32px;
   width: 75px;
 
-  background-color: #4e75ff;
+  background-color: #dec4e4;
 
   transition: background-color 250ms ease-in-out, color 250ms ease-in-out;
 
@@ -71,7 +71,7 @@
 
 .timer-wrapper > button:hover,
 .timer-wrapper > button:focus {
-  background-color: #6c8cff;
+  background-color: #8d9dd8;
 }
 
 .timer-wrapper > button:disabled {

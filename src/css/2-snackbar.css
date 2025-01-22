@@ -6,7 +6,7 @@
   background-color: #ffffff;
   margin-top: 12px;
   padding: 36px 28px;
-  border: 4px solid #49534f;
+  border: 4px solid #e6c2e1;
   border-radius: 8px;
   max-width: 80%;
   margin-left: auto;
@@ -70,7 +70,7 @@
 }
 
 .form fieldset.focused {
-  border-color: #4e75ff;
+  border-color: #505c88;
 }
 
 .form fieldset label {
@@ -88,7 +88,7 @@
   padding: 8px 16px;
   min-width: 360px;
 
-  background-color: #4e75ff;
+  background-color: #e297d2;
 
   transition: background-color 250ms ease-in-out, color 250ms ease-in-out;
 
@@ -101,5 +101,5 @@
 
 .form button:hover,
 .form button:focus {
-  background-color: #6c8cff;
+  background-color: #fd72b8;
 }
