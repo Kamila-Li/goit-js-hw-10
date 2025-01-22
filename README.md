@@ -1,4 +1,4 @@
-# GOHW-JS-HW-10
+# GOIT-JS-HW-10
 
 Збірка проєкту: https://github.com/goitacademy/vanilla-app-template
 
